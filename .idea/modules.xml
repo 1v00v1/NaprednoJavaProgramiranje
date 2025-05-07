@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NaprednoJavaProgramiranje.iml" filepath="$PROJECT_DIR$/NaprednoJavaProgramiranje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05.05-Statment/05.05-Statment.iml" filepath="$PROJECT_DIR$/../05.05-Statment/05.05-Statment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07.05-UpravljanjeTransakcijama/07.05-UpravljanjeTransakcijama.iml" filepath="$PROJECT_DIR$/../07.05-UpravljanjeTransakcijama/07.05-UpravljanjeTransakcijama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../14-04-TRANSACTION/14-04-TRANSACTION.iml" filepath="$PROJECT_DIR$/../14-04-TRANSACTION/14-04-TRANSACTION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../23.04-MAPS_SETS/23.04-MAPS_SETS.iml" filepath="$PROJECT_DIR$/../23.04-MAPS_SETS/23.04-MAPS_SETS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../24.04_Pristup_Bazama/24.04_Pristup_Bazama.iml" filepath="$PROJECT_DIR$/../24.04_Pristup_Bazama/24.04_Pristup_Bazama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../28.04_Zadaci/28.04_Zadaci.iml" filepath="$PROJECT_DIR$/../28.04_Zadaci/28.04_Zadaci.iml" />
     </modules>
   </component>
 </project>

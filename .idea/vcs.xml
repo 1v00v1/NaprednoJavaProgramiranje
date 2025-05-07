@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../05.05-Statment/05-05_Statment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../14-04-TRANSACTION/Java Collections Framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../23.04-MAPS_SETS/23_04_HashMapPrimjeri" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../24.04_Pristup_Bazama/24.04_Pristup_Bazama" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../28.04_Zadaci" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
